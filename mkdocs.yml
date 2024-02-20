@@ -1,0 +1,14 @@
+site_name: NegKit
+site_url: https://docs.negkit.com
+nav:
+  - Inicio: index.md
+  - Ventas:
+    - Ventas: ventas/ventas.md
+    - Clientes: ventas/clientes.md
+  - Compras:
+    - Compras: compras/compras.md
+    - Proveedores: compras/proveedores.md
+theme:
+  name: mkdocs
+  nav_style: dark
+  locale: es
