@@ -1,13 +1,38 @@
 site_name: NegKit
 site_url: https://docs.negkit.com
+site_description: Manual de usuario de NegKit
+site_author: Edwin Fajardo
+copyright: Copyright 2024 Algoritmia SV
 nav:
   - Inicio: index.md
   - Ventas:
     - Ventas: ventas/ventas.md
     - Clientes: ventas/clientes.md
+    - Créditos: ventas/creditos.md
   - Compras:
     - Compras: compras/compras.md
     - Proveedores: compras/proveedores.md
+    - 'Inventario inicial': compras/inventario-inicial.md
+  - Catálogo:
+    - Productos: catalogo/productos.md
+    - Servicios: catalogo/servicios.md
+    - Combos: catalogo/combos.md
+    - 'Productos genéricos': catalogo/productos-genericos.md
+  - Reportes:
+    - 'Reportes de ventas': reportes/reportes-ventas.md
+    - 'Reportes de compras': reportes/reportes-compras.md
+    - 'Reportes de utilidad': reportes/reportes-utilidad.md
+    - Inventerio: reportes/reportes-inventario.md
+    - Kardex: reportes/kardex.md
+    - Precederos: reportes/perecederos.md
+    - 'Productos en escasez': reportes/escasez.md
+    - 'Productos en exceso': reportes/exceso.md
+  - Configuraciones:
+    - 'Datos de la empresa': configuraciones/entidad.md
+    - Preferencias: configuraciones/preferencias.md
+    - Roles: configuraciones/roles.md
+    - Usuarios: configuraciones/usuarios.md
+    - Numeraciones: configuraciones/numeraciones.md
 theme:
   name: mkdocs
   nav_style: dark
