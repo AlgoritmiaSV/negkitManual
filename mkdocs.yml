@@ -2,7 +2,7 @@ site_name: NegKit
 site_url: https://docs.negkit.com
 site_description: Manual de usuario de NegKit
 site_author: Edwin Fajardo
-copyright: Copyright 2024 Algoritmia SV
+copyright: Copyright &copy;2024 Algoritmia SV
 nav:
   - Inicio: index.md
   - Ventas:
