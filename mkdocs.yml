@@ -1,8 +1,9 @@
 site_name: NegKit
-site_url: https://docs.negkit.com
+site_url: https://manuales.algoritmia.sv/negkit/
 site_description: Manual de usuario de NegKit
 site_author: Edwin Fajardo
 copyright: Copyright &copy;2024 Algoritmia SV
+site_dir: /store/bphp/manuals/negkit
 nav:
   - Inicio: index.md
   - Ventas:
@@ -16,8 +17,10 @@ nav:
   - Catálogo:
     - Productos: catalogo/productos.md
     - Servicios: catalogo/servicios.md
+    - Categorías: catalogo/categorias.md
     - Combos: catalogo/combos.md
     - 'Productos genéricos': catalogo/productos-genericos.md
+    - 'Unidades de medida': catalogo/unidades-de-medida.md
   - Reportes:
     - 'Reportes de ventas': reportes/reportes-ventas.md
     - 'Reportes de compras': reportes/reportes-compras.md
@@ -27,6 +30,9 @@ nav:
     - Precederos: reportes/perecederos.md
     - 'Productos en escasez': reportes/escasez.md
     - 'Productos en exceso': reportes/exceso.md
+  - Herramientas:
+    - 'Historial de actividades': herramientas/historial-actividades.md
+    - 'Papelera de reciclaje': herramientas/papelera.md
   - Configuraciones:
     - 'Datos de la empresa': configuraciones/entidad.md
     - Preferencias: configuraciones/preferencias.md
@@ -37,3 +43,5 @@ theme:
   name: mkdocs
   nav_style: dark
   locale: es
+extra_css:
+  - css/algoritmiasv.css
