@@ -6,10 +6,18 @@ Puede registrar varios talonarios del mismo tipo de documento a la vez. El siste
 
 Si un tipo de documentos no tiene número correlativo disponible, no aparecerá en el formulario de venta.
 
+---
+
 ## Lista de numeraciones
+
+---
 
 ## Agregar una nueva numeración
 
+---
+
 ## Modificar una numeración
+
+---
 
 ## Eliminar una numeración

@@ -1,2 +1,1 @@
-Módulo de compras
-=================
+# Módulo de compras

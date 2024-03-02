@@ -1,2 +1,1 @@
-Productos genéricos
-===================
+# Productos genéricos
