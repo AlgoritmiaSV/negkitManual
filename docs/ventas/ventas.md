@@ -1,2 +1,1 @@
-Módulo de ventas
-================
+# Módulo de ventas

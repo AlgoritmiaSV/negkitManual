@@ -1,2 +1,1 @@
-Reportes de compras
-===================
+# Reportes de compras
